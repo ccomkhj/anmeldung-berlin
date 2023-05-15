@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  anmeldung-berlin:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    image: anmeldung-verlin:v1.1
+    volumes:
+      - /output:/home/myuser/output

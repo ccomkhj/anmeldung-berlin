@@ -2,6 +2,10 @@
 
 This app will find and book an Anmeldung appointment automatically for you in Berlin.
 
+## My Contribution
+You can run docker-compose
+`docker-compose up`
+
 ## Quickstart
 
 ### Configuration
